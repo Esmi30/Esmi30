@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Esmi30
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning SQL/C#
+- 📫 Email address: edqtorres@gmail.com
