@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Esmi30
-- 👀 I’m interested in Database Management/Web-Dev
-- 🌱 I’m currently learning SQL/MySQL & Front-End Web Dev
+- 👀 I’m interested Web Development
+- 🌱 I’m currently learning Front-End Web Dev
 - 📫 Email address: edqtorres@gmail.com
