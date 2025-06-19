@@ -1,4 +1,2 @@
 - 👋 Hi, I’m @Esmi30
-- 👀 I’m interested Web Development
-- 🌱 I’m currently learning Front-End Web Dev
 - 📫 Email address: edqtorres@gmail.com
